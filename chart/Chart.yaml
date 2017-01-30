@@ -1,0 +1,19 @@
+name: My test chart 0.3
+version: 0.0.3
+description: Just my test chart description
+keywords:
+  - test
+  - chart 
+  - key
+  - words
+home: http://localhost/
+sources:
+  - http://localhost/2/
+  - http://localhost/3/
+maintainers:
+  - name: Vadim
+    email: monstarnn@gmail.com
+  - name: Vadim2
+    email: monstarnn@mail.ru
+engine: gotpl
+icon: http://localhost/4.png
